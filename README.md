@@ -80,5 +80,5 @@ chmod +x *.sh
 - Экранирование HTML: Защита от инъекций в уведомлениях
 - Проверка форматов: Валидация адресов перед сохранением
 ## О создателе: 
-**Автор:** [allmuted](https://github.com/a11mut3d)
-**Телеграмм-канал:** https://t.me/rootlocalhostvibe
+### **Автор:** [allmuted](https://github.com/a11mut3d)
+### **Телеграмм-канал:** https://t.me/rootlocalhostvibe
