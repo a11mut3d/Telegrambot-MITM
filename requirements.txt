@@ -1,0 +1,4 @@
+aiogram>=3.0.0
+mitmproxy>=10.0.0
+aiohttp>=3.8.0
+requests>=2.31.0
