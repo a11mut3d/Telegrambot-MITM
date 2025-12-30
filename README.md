@@ -48,7 +48,7 @@ chmod +x *.sh
 ```
 Пример:
 ```
-./start.sh "1234567890:AAHdqTcvCH1vGWJxfSeofSAs0K5PALDsaw" 123456789
+./start.sh "1234567890:AAAAAAAAAAAAAAAAAAAAAAA" 123456789
 ```
 ## Управление через Telegram-бота
 После запуска отправьте /start вашему боту:
